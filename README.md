@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:361562351415066624)](https://discord.com/users/:361562351415066624)
+
 <h1 align="center">Hoş Geldin!
 <p align="center">
   <a href="https://discord.com/users/361562351415066624" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
