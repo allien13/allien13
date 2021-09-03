@@ -1,22 +1,30 @@
-<h1 align="center">Hoş Geldin!
+<img src="https://komarev.com/ghpvc/?username=Wency&label=Ziyaretçi%20Sayısı&color=552b75" alt="Wency" />
+
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/335115272161853442)](https://discord.com/users/335115272161853442)
+
+
+## 🔧 Languages
+- ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
+- ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
+- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
+
+## 🧮 Stats
+<a href="https://github.com/Wency/Wency">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wency&hide=c%2B%2B,c,html&title_color=d6826d&text_color=FF00FF&icon_color=6aa6f8&bg_color=0e1116" alt="Wency GitHub Stats" />
+</a>
+
+
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wency&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<h3>🌟 Contacts!</h3>
 <p align="center">
-  <a href="https://discord.com/users/361562351415066624" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/allien13" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<br><a href = "https://discord.gg/just" target"blank_"><img src = "https://img.shields.io/discord/736348236557713498?label=Discord%20Sunucum&style=for-the-badge"></br>
-</p>
-
-<h3>Coding Languages</h3>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-<h3>Technologies</h3>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/361562351415066624?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/361562351415066624)
+     <a href="https://www.instagram.com/ardawncxy" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://twitch.tv/wencyistaken" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+ <a href="https://open.spotify.com/artist/2izoI4BYPveurh2dmNFTDw?si=zATFfjfhR6ux2-dT0_IQOQ&dl_branch=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+     <a href="mailto:ardayilmaz@outlook.com?body=Merhaba" target"blank_"><img src="https://img.shields.io/badge/Gmail-09ffeb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://discord.com/users/335115272161853442" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
-
