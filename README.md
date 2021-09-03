@@ -16,5 +16,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/737008970417569882)](https://discord.com/users/737008970417569882)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/335115272161853442)](https://discord.com/users/335115272161853442)
+
 </p>
