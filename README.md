@@ -1,6 +1,6 @@
-<h1 align="center">Hoş Geldin!
+<h1 align="center">Welcome to my profile!
 <p align="center">
-  <a href="https://discord.com/users/361562351415066624" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/361562351415066624" target"blank_"><img src="https://img.shields.io/badge/MyDiscord%20Profile%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/allien13" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <br>
 </p>
