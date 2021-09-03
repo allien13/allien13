@@ -1,6 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=Wency&label=Ziyaretçi%20Sayısı&color=552b75" alt="Wency" />
+<img src="https://komarev.com/ghpvc/?username=Allien&label=Ziyaretçi%20Sayısı&color=552b75" alt="Allien" />
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/335115272161853442)](https://discord.com/users/335115272161853442)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/361562351415066624)](https://discord.com/users/361562351415066624)
 
 
 ## 🔧 Languages
