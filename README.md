@@ -17,5 +17,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/361562351415066624)](https://discord.com/users/361562351415066624)
-
 </p>
