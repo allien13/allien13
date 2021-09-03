@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:361562351415066624)](https://discord.com/users/:361562351415066624)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/361562351415066624)](https://discord.com/users/361562351415066624)
 
 <h1 align="center">Hoş Geldin!
 <p align="center">
